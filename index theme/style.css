@@ -1,0 +1,37 @@
+body{
+    font-family: 'Playfair Display', serif;
+    transition: all 1s;
+}
+
+.nav-link{
+    font-size: 1.4rem;
+}
+
+
+#logo{
+ width: 60rem;
+}
+
+
+.fa{
+    font-size: 2rem;
+}
+
+.card-img {
+    float: left;
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+
+}
+.card-hr{
+    width: 15%;
+    margin-top:.6rem;
+}
+.card-title{
+    font-family: 'Pacifico', cursive;
+}
+.cr h3{
+    font-size: 1rem;
+}
